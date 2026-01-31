@@ -1,7 +1,0 @@
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\.venv\Scripts\activate
-python -m jupyter notebook  
-pip install ipykernel
-pip install numpy
-pip install sympy
-pip install scipy
